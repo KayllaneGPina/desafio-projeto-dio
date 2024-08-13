@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 12/08/2024
-Empresa: Abstergo Industries 
-Responsável: Kayllane Pina
+**Data**: 12/08/2024   
+**Empresa**: Abstergo Industries  
+**Responsável**: Kayllane Pina
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Kayllane Pina. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
